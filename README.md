@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Stephen Kimani
-
+assest/Frontend.png
 
 # 💫 About Me:
 I am a Software Engineer and web developer with a good eye for design. I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.<br><br>🔭 I’m currently working with JavaScript, Python, C and the MERN stack.<br>👯 I’m looking to collaborate on MERN Web development projects
