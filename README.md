@@ -1,4 +1,6 @@
 ### Hi there 👋 my name is Stephen Kimani
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)
 <img src="assest/Frontend.png" alt="introductory banner for stephen kimani">
 
 # 💫 About Me:
