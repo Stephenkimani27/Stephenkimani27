@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Stephen Kimani
-https://github.com/Stephenkimani27/Stephenkimani27/blob/62bb3670c9a75044552eeaa44f333997ee9a3345/assest/Frontend.png
+
 
 # 💫 About Me:
 I am a Software Engineer and web developer with a good eye for design. I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.<br><br>🔭 I’m currently working with JavaScript, Python, C and the MERN stack.<br>👯 I’m looking to collaborate on MERN Web development projects
