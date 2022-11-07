@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Stephen Kimani
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=C0BD8D&center=true&multiline=true&width=800&lines=Here's+my+profile.+Feel+free+to+connect.)](https://git.io/typing-svg)
-<img src="assest/Frontend.png" alt="introductory banner for stephen kimani">
+<img src="assest/Frontend (6).png" alt="introductory banner for stephen kimani">
 
 # 💫 About Me:
 I am a Software Engineer and web developer with a good eye for design. I am passionate about education, general Engineering principles, building and breaking stuff, and creating art.<br><br>🔭 I’m currently working with JavaScript, Python, C and the MERN stack.<br>👯 I’m looking to collaborate on MERN Web development projects
